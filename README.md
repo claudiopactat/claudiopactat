@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Claudio 👋</h1>
+  <img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" height="300rem">
+</div>
 
-<!--
-**claudiopactat/claudiopactat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1>Sobre mi : </h1>
+  
+  - 🔭 Desarrollador Full Stack
+  - 🌱 Tengo 29 años
+  - ☎ +5493425234627
+  - 📫 claudio.pactat@gmail.com
+</div>
