@@ -8,7 +8,7 @@
   <h1>Sobre mi : </h1>
   
   - 🔭 Desarrollador Full Stack
-  - 🌱 Tengo 29 años
+  - 🌱 Tengo 30 años
   - ☎ +5493425234627
   - 📫 claudio.pactat@gmail.com
 </div>
